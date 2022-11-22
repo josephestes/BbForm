@@ -13,3 +13,10 @@ This application is an interactive menu for a Bed and Breakfast.
 - Include a button that opens the food menu
   1.  The menu contains radio buttons and labels corresponding to food options and prices
   2. When the radio button is clicked, update the current price label for the selected item
+  
+<details>
+ <summary>More Screenshots</summary>
+ 
+![App Screenshot](https://raw.githubusercontent.com/josephestes/BbForm/master/files/HallHouseRoom.jpg)
+
+![App Screenshot](https://raw.githubusercontent.com/josephestes/BbForm/master/files/BreakfastOptionForm.jpg)
