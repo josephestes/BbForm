@@ -2,6 +2,10 @@
 
 This application is an interactive menu for a Bed and Breakfast.
 
+## Usage/Examples
+
+![App Screenshot](https://raw.githubusercontent.com/josephestes/BbForm/master/files/BbForm.jpg)
+
 ### Program Logic
 
 - Include two checkboxes containing prices for each room
